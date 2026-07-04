@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **AWS, AZURE, Kubernetes, Terraform, Ansible, Python**
 
-- 📫 How to reach me **gopichandnallani582@gmail.com**
+- 📫 How to reach me **nallanigopichand36@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
