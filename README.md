@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Gopichand Nallani</h1>
 
 <h3 align="center">
-  Senior DevOps Engineer | Cloud Engineer | Kubernetes | Terraform | CI/CD | SRE
+  DevOps Engineer | Cloud Engineer | Kubernetes | Terraform | CI/CD | SRE
 </h3>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-I am a **Senior DevOps / Cloud Engineer** with **9+ years of experience** in building, automating, and managing scalable cloud infrastructure, CI/CD platforms, containerized workloads, and production-grade monitoring systems.
+I am a **DevOps / Cloud Engineer** with **8+ years of experience** in building, automating, and managing scalable cloud infrastructure, CI/CD platforms, containerized workloads, and production-grade monitoring systems.
 
 I specialize in designing reliable DevOps solutions across **AWS, Azure, Kubernetes, Terraform, Jenkins, Azure DevOps, GitHub Actions, Docker, Helm, Argo CD, Prometheus, Grafana, Splunk, and Datadog**.
 
